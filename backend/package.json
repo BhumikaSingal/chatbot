@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "A chatbot project",
   "main": "index.js",
+  "type":"module",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"No test specified\" && exit 0"
+    "start":"nodeman index.js"
   },
   "author": "Bhumika Singal",
   "license": "ISC",
